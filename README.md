@@ -8,7 +8,7 @@ _<h2>Contenidos minimos (de acuerdo al plan de estudios)</h2>_
 <ul>
   <li>Funciones elementales</li>
   <li>Limites y Continuidad</li>
-  <li>Derivadas y Exremos</li>
+  <li>Derivadas y Extremos</li>
   <li>Integracion</li>
   <li>Elementos de optimizacion en una variable</li>
   <li>Suceciones y Series</li>
